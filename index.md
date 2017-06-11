@@ -5,14 +5,15 @@ layout: default
 <body>
   <div class="index-wrapper">
     <div class="aside">
-      <div class="info-card">
+      <div>
         <a href="/" target="_blank"><img src="/images/2793680.jpg" alt="" width="90"/></a>
         <br />
         <h2>TaozyWu</h2>
+      </div>
+      <div class="info-card">
         <a href="http://weibo.com/taozywu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://github.com/taozywu/" target="_blank"><img src="https://assets-cdn.github.com/favicon.ico" alt="" width="22"/></a>
-        <a href="https://www.v2ex.com/" target="_blank">V2EX</a>
-        <a href="http://www.newsmth.net/nForum/#!fav" target="_blank">水木社区</a>
+        <a href="http://www.newsmth.net/nForum/#!fav" target="_blank"><img src="http://images.newsmth.net/nForum/favicon.ico" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
