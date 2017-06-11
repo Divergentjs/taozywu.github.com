@@ -9,7 +9,8 @@ layout: default
         <h1>TaozyWu</h1>
         <a href="http://weibo.com/taozywu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://github.com/taozywu/" target="_blank"><img src="https://assets-cdn.github.com/favicon.ico" alt="" width="22"/></a>
-        <a href="http://instagram.com/beiyuu/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
+        <a href="https://www.v2ex.com/" target="_blank">V2EX</a>
+        <a href="http://www.newsmth.net/nForum/#!fav" target="_blank">水木社区</a>
       </div>
       <div id="particles-js"></div>
     </div>
