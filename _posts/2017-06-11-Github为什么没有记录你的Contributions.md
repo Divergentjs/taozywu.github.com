@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      Github为什么没有记录你的Contributions
-category: blog
-description: Github为什么没有记录你的Contributions
+layout:      post
+title:       Github为什么没有记录你的Contributions
+category:    blog
+description: 如果你在github中的贡献信息丢失,你阔以使用脚本来改变某个repo的Git历史.
 ---
 
 ## 使用脚本来改变某个repo的Git历史
