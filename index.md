@@ -12,9 +12,10 @@ layout: default
         <h1>TaozyWu</h1>
         <br />
         <br />
-        <a href="http://weibo.com/taozywu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://github.com/taozywu/" target="_blank"><img src="https://assets-cdn.github.com/favicon.ico" alt="" width="22"/></a>
-        <a href="http://www.newsmth.net/nForum/#!fav" target="_blank"><img src="http://images.newsmth.net/nForum/favicon.ico" alt="" width="22"/></a>
+        <a href="http://weibo.com/taozywu/" target="_blank" title="weibo"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
+        <a href="http://github.com/taozywu/" target="_blank" title="github"><img src="https://assets-cdn.github.com/favicon.ico" alt="" width="22"/></a>
+        <a href="http://www.newsmth.net/nForum/#!fav" target="_blank" title="newsmth"><img src="http://images.newsmth.net/nForum/favicon.ico" alt="" width="22"/></a>
+        <a href="/about" target="_blank" title="newsmth"><img src="/images/about.png" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
