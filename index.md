@@ -11,6 +11,8 @@ layout: default
           <br />
           <br />
           <h2>TaozyWu</h2>
+          <br />
+          <br />
         </div>
         <a href="http://weibo.com/taozywu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://github.com/taozywu/" target="_blank"><img src="https://assets-cdn.github.com/favicon.ico" alt="" width="22"/></a>
@@ -18,7 +20,7 @@ layout: default
       </div>
       <div id="particles-js"></div>
     </div>
-    
+
     <div class="index-content">
       <ul class="artical-list">
         {% for post in site.categories.blog %}
