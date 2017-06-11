@@ -6,14 +6,12 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <div>
-          <a href="/" target="_blank"><img src="/images/2793680.jpg" alt="" width="90"/></a>
-          <br />
-          <br />
-          <h2>TaozyWu</h2>
-          <br />
-          <br />
-        </div>
+        <a href="/" target="_blank"><img src="/images/2793680.jpg" alt="" width="90"/></a>
+        <br />
+        <br />
+        <h1>TaozyWu</h1>
+        <br />
+        <br />
         <a href="http://weibo.com/taozywu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://github.com/taozywu/" target="_blank"><img src="https://assets-cdn.github.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://www.newsmth.net/nForum/#!fav" target="_blank"><img src="http://images.newsmth.net/nForum/favicon.ico" alt="" width="22"/></a>
