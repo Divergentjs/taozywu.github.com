@@ -7,6 +7,7 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <a href="/" target="_blank"><img src="/images/2793680.jpg" alt="" width="90"/></a>
+        <p/>
         <h2>TaozyWu</h2>
         <a href="http://weibo.com/taozywu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://github.com/taozywu/" target="_blank"><img src="https://assets-cdn.github.com/favicon.ico" alt="" width="22"/></a>
