@@ -18,19 +18,20 @@ cd C:\Users\taozy\AppData\Roaming\Sublime Text 3\Packages
 
 git clone https://github.com/taozywu/PackageResourceViewer 
 
-快捷键 ⌘(command/ctrl)+⇧(shift)+P 打开 Command Palette 输入 PackageResourceViewer: Open Resource 回车，
-打开包列表 选择 Theme - Default，
-再选择 Default.sublimt-theme
+#快捷键 ⌘(command/ctrl)+⇧(shift)+P 打开 Command Palette 输入 PackageResourceViewer: Open Resource 回车，
+#打开包列表 选择 Theme - Default，
+#再选择 Default.sublimt-theme
 
-sidebar_label
+
+//sidebar_label
 
 "font.size": 18
 
-tab_label
+//tab_label
 
 "font.size": 12
 
-sidebar_tree
+//sidebar_tree
 
 "row_padding": [9, 6],
 
