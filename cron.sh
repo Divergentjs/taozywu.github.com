@@ -2,7 +2,7 @@
 
 #open the directory
 #打开cron目录
-cd /data/www/taozywu.github.com
+cd /data/www/taozywu.github.com/
 
 #to avoid the new version changed by other users,git pull first
 #避免其他用户更新了目录，先进行git pull到endIdx
@@ -10,7 +10,7 @@ git pull
 
 #open the directory again
 #再次打开目录
-cd /data/www/taozywu.github.com
+cd /data/www/taozywu.github.com/
 
 #use the 'date' command to get the date, and output to the 'tmp1' file
 #使用date命令获取时间，并重点向输出到文件tmp1
