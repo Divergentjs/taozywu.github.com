@@ -16,13 +16,9 @@ cd /data/www/taozywu.github.com/
 #使用date命令获取时间，并重点向输出到文件tmp1
 date > tmp1
 
-#use the 'ifconfig' command to get ip information(just get the ip address include '172',such as 172.168.12.12), and outpt to the 'tmp2' file
-#使用ifconfig获取172字段的信息，因为局域网的字段为172开头，避免泄漏不必要的信息，只grep了这部分，同样重定向输出到tmp2
-ifconfig | grep 172 > tmp2
-
 #use the 'cat' command to merger 2 files
 #使用cat 命令合并两个文件
-cat tmp1 tmp2 > cron.result
+cat tmp1 > cron.result
 
 #add cron.sh and the result file to the git cache
 #把cron.sh和result文件添加到git缓冲区
