@@ -35,4 +35,4 @@ git commit -m "refresh"
 
 #push to the github
 #最后，上传到github
-git push
+git push origin master
